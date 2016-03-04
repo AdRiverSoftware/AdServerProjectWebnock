@@ -1,9 +1,8 @@
-# Revive Adserver
-#### The open source ad server formerly known as OpenX Source
+# Ad River Adserver
 
 [![Gitter](https://badges.gitter.im/Join%20The%20Developers%20Chat.svg)](https://gitter.im/revive-adserver/revive-adserver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**Revive Adserver is an open source ad serving tool** that enables publishers to:
+**AdRiver Adserver is an open source ad serving tool** that enables publishers to:
 
 * Serve ads on their websites;
 
@@ -13,24 +12,19 @@
 
 * Set rules to target the delivery of campaigns, or even ads, to specific users, to help maximise the effectiveness of campaigns.
 
-_Revive Adserver was was formerly known as OpenX Source, Openads and phpAdsNew._
+_AdRiver Adserver was was formerly known as OpenX Source, Openads and phpAdsNew._
 
-
-# Download
-
-**DO NOT DOWNLOAD AS A ZIP FILE FROM GITHUB**
-
-Download the latest version from: http://www.revive-adserver.com/download/
-
-Revive Adserver as available from github as a zip file is not suitable for installation on a server. It contains a number of files that are for development only, and are removed during the release packaging process.
-
-Please ONLY download Revive Adserver as a release package from the Revive Adserver website at http://www.revive-adserver.com/.
+#Team members 
+* K R Anand
+* M M Vinay Kumar
+* Madhusoodana Adiga K
+* Pavan Kumar S
 
 
 
 # License
 
-Revive Adserver is copyright; please see the COPYRIGHT file.
+AdRiver Adserver is copyright; please see the COPYRIGHT file.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
